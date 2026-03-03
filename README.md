@@ -33,6 +33,16 @@
 3. 「画像を保存」ボタンを押す
 4. ダウンロードが開始され、`images/` フォルダ名で保存される
 
+## スクリーンショット
+
+### 起動時
+
+![起動時](./screenshots/image-save-chrome-extension_ss1.png)
+
+### 画像保存完了時
+
+![画像保存完了時](./screenshots/image-save-chrome-extension_ss2.png)
+
 ## 補足
 
 - サイト側の制約（認証やCORS、期限付きURLなど）により、一部画像が保存できない場合があります。
